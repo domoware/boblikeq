@@ -1,1 +1,1 @@
-[# boblikeq](access.dwservice.net/session.dw?parent=mng#s)
+[# boblikeq](access.dwservice.net)
